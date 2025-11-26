@@ -165,7 +165,12 @@ model, scaler = training_pipeline()
 ```python
 main()
 ```
+#### or 
 
+```python
+if __name__ == "__main__":
+    main()
+```
 * Run the script to start the command-line interface:
 
   * Enter a ticker symbol to predict next close.
