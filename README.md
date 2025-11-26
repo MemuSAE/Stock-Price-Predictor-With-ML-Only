@@ -1,4 +1,4 @@
-````markdown
+
 # Enhanced Stock Predictor
 
 An **stock price prediction tool** using **Ridge Regression**.  
