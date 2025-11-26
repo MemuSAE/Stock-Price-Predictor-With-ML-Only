@@ -1,9 +1,7 @@
-Ah! Got it—you want the **entire README in one big Markdown code block**, so you can literally copy-paste it as-is. Here’s the full version:
-
 ````markdown
 # Enhanced Stock Predictor
 
-An **enhanced stock price prediction tool** using **Ridge Regression**.  
+An **stock price prediction tool** using **Ridge Regression**.  
 Fetches historical stock data, generates technical features, trains a predictive model, and predicts the next day’s closing price with visualizations.
 
 ---
@@ -202,7 +200,7 @@ python stock_predictor.py
 Example CLI session:
 
 ```
-Welcome to the Enhanced Stock Predictor.
+Welcome to the Stock Predictor.
 This tool uses Ridge Regression to predict the next closing price.
 
 Enter a ticker to predict (e.g., NVDA, AAPL, GOOGL)
